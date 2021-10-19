@@ -1,0 +1,14 @@
+{
+  "name": "drone-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/init.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/init.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eduardo Amroginski Santos",
+  "license": "ISC"
+}
